@@ -5,8 +5,8 @@ worldwide. Classification and data mining methods are an effective way to classi
 Given the details of cell nuclei taken from breast mass, predicting whether or not a patient has breast cancer using the Ensembling Techniques. Performing necessary exploratory data analysis before building the model and evaluating the model based on performance metrics other than model accuracy. 
 
 #Approach
-Analysing the available data and exploring relationships among given variables
-Data Pre-processing
-Training different models to predict whether the patient has cancer or not
-Assess the correctness in classifying data with respect to efficiency and effectiveness of
-the models in terms of accuracy, precision,f1 score.
+
+1. Analysing the available data and exploring relationships among given variables
+2. Data Pre-processing
+3.Training different models to predict whether the patient has cancer or not
+4. Assess the correctness in classifying data with respect to efficiency and effectiveness of the models in terms of accuracy, precision,f1 score.
