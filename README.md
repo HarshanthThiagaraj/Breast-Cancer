@@ -8,5 +8,5 @@ Given the details of cell nuclei taken from breast mass, predicting whether or n
 
 1. Analysing the available data and exploring relationships among given variables
 2. Data Pre-processing
-3.Training different models to predict whether the patient has cancer or not
+3. Training different models to predict whether the patient has cancer or not
 4. Assess the correctness in classifying data with respect to efficiency and effectiveness of the models in terms of accuracy, precision,f1 score.
